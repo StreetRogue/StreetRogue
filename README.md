@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StreetRogue/StreetRogue/main/logo.svg" alt="Mi imagen SVG" width="200"/>
+</p>
+
 
 <div id="hey" align="center">
   <h1>
