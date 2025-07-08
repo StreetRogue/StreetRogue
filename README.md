@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/juan-esteban-chavez-collazos-a5691b318/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://al3sha9.github.io/portfolio/">
+  <a href="https://juan-code-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@ I enjoy learning about the latest technologies, best practices, and design patte
 
 - 🎓 Currently studying Systems Engineering at Universidad del Cauca.
 - 🌱 Learning modern full-stack development and clean architecture.
-- 📫 How to reach me: email me [juanchavezcollazos2004@gmail.com](mailto:juanchavezcollazos2004@gmail.com), you can also contact me from my [website](working).
+- 📫 How to reach me: email me [juanchavezcollazos2004@gmail.com](mailto:juanestebanchavezcollazos2004@gmail.com), you can also contact me from my [website](working).
 
 
 ## :hammer_and_wrench: Languages and Tools:
