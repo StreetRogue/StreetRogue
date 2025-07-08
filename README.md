@@ -35,7 +35,7 @@ I enjoy learning about the latest technologies, best practices, and design patte
 
 - 🎓 Currently studying Systems Engineering at Universidad del Cauca.
 - 🌱 Learning modern full-stack development and clean architecture.
-- 📫 How to reach me: email me [juanchavezcollazos2004@gmail.com](mailto:juanestebanchavezcollazos2004@gmail.com), you can also contact me from my [website](working).
+- 📫 How to reach me: email me [juanchavezcollazos2004@gmail.com](mailto:juanestebanchavezcollazos2004@gmail.com), you can also contact me from my [website](https://juan-code-portfolio.vercel.app/).
 
 
 ## :hammer_and_wrench: Languages and Tools:
